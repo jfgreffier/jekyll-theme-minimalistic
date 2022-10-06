@@ -29,6 +29,8 @@ navigation:
       - name: Credits
         link: ./#credits
   - name: Sample
+    link: ./codelab.html
+  - name: Sample
     link: ./another-page.html
     sublist:
       - name: Image
