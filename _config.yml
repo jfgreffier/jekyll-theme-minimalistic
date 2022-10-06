@@ -2,6 +2,7 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: Minimalistic
 description: Much description. Such Wow
+logo: ./logo.jpg
 favicon: true
 color-scheme: dark
 
