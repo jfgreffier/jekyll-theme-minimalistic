@@ -33,16 +33,12 @@ if ("false") {
 ```
 
 ### Solution
-<details>
-  <summary>Spoiler warning</summary>  
-
-  ```
-  true
-  {}
-  []
-  "false"
-  ```
-</details>
+```
+true
+{}
+[]
+"false"
+```
 
 ## References
 MDN https://developer.mozilla.org/en-US/docs/Glossary/Truthy
