@@ -4,9 +4,13 @@
 @import "{{ site.theme }}";
 
 section {
-  width: 600px;
+  width: 650px;
 }
 
 .wrapper {
   width: 960px
+}
+
+iframe {
+  border: none;
 }
