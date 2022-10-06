@@ -8,10 +8,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vulputate felis n
 
 ### Problem
 Complete the `TODO`
-<iframe width="100%" height="500px" src="https://stackblitz.com/github/jfgreffier/jekyll-theme-minimalistic?embed=1&file=src/02.js&hideExplorer=1&view=editor"></iframe>
+<iframe width="100%" height="500px" src="https://stackblitz.com/github/jfgreffier/jekyll-theme-minimalistic/tree/gh-pages?embed=1&file=src/02.js&hideExplorer=1&view=editor"></iframe>
 
 ### Solution
-<iframe width="100%" height="500px" src="https://stackblitz.com/github/jfgreffier/jekyll-theme-minimalistic?embed=1&file=src/02.solution.js&hideExplorer=1&view=editor"></iframe>
+<iframe width="100%" height="500px" src="https://stackblitz.com/github/jfgreffier/jekyll-theme-minimalistic/tree/gh-pages?embed=1&file=src/02.solution.js&hideExplorer=1&view=editor"></iframe>
 
 ## References
 MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
