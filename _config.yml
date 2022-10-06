@@ -36,3 +36,9 @@ navigation:
     sublist:
       - name: Image
         link: ./another-page.html#small-image
+  - name: Exercises
+    sublist:
+      - name: Truthy
+        link: ./01-truthy.html
+      - name: Arrays
+        link: ./02-arrays.html
