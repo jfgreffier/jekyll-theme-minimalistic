@@ -28,7 +28,7 @@ navigation:
         link: ./#stylesheet
       - name: Credits
         link: ./#credits
-  - name: Sample
+  - name: Codelab
     link: ./codelab.html
   - name: Sample
     link: ./another-page.html
